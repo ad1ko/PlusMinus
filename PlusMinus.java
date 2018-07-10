@@ -13,6 +13,7 @@ public class PlusMinus {
                 neg++;
             }else{
                 zero++;
+                System.out.println("Asel's change");
             }
     }
         System.out.println(pos/len);
