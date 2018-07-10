@@ -26,6 +26,8 @@ public class PlusMinus {
 		int arr[] = {-4, 3, -9, 0, 4, 1 };
 		plusMinus(arr);
 		
+		System.out.println("adilet kaleysan");
+		
 
 
 	}
