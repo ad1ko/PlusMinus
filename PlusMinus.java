@@ -26,7 +26,13 @@ public class PlusMinus {
 		int arr[] = {-4, 3, -9, 0, 4, 1 };
 		plusMinus(arr);
 		
+<<<<<<< HEAD
 		System.out.println("Huseyin Baba");
+=======
+		System.out.println("adilet kaleysan");
+		
+
+>>>>>>> 278adb51c9ab3503dd38c1a14819cb944d1a1309
 
 	}
 
