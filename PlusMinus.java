@@ -18,7 +18,7 @@ public class PlusMinus {
         System.out.println(pos/len);
         System.out.println(neg/len);
         System.out.println(zero/len);
-        
+        System.out.println("Nargiza");
 
     }
 
