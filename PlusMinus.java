@@ -29,7 +29,8 @@ public class PlusMinus {
 		System.out.println("adilet kaleysan");
 		
 
-
+System.out.println("akmal has made some changes");
 	}
+	
 
 }
