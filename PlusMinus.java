@@ -1,5 +1,5 @@
 package may09;
-
+//hi Adilet this is from Nargiza
 public class PlusMinus {
 	static void plusMinus(int[] arr) {
         double pos=0;
