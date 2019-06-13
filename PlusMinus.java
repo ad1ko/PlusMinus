@@ -1,5 +1,5 @@
 package may09;
-
+//hi Adilet this is from Nargiza
 public class PlusMinus {
 	static void plusMinus(int[] arr) {
         double pos=0;
@@ -18,7 +18,7 @@ public class PlusMinus {
         System.out.println(pos/len);
         System.out.println(neg/len);
         System.out.println(zero/len);
-        
+        System.out.println("Nargiza");
 
     }
 
@@ -26,8 +26,11 @@ public class PlusMinus {
 		int arr[] = {-4, 3, -9, 0, 4, 1 };
 		plusMinus(arr);
 		
+		System.out.println("adilet kaleysan");
+		
 
-
+System.out.println("akmal has made some changes");
 	}
+	
 
 }
